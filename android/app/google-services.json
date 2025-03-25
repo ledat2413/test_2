@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "425460598574",
+    "project_id": "authenticate-module-b499f",
+    "storage_bucket": "authenticate-module-b499f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425460598574:android:ef563d85efa0ec95e79cbf",
+        "android_client_info": {
+          "package_name": "com.example.authenticate_module"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425460598574-8alne9u59qdomde989sjusq8aat29mp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw0M55krdIw8H0eF_Fw7FPFipXpsKnHZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425460598574-8alne9u59qdomde989sjusq8aat29mp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425460598574:android:b7b7d8b583c8fc4ce79cbf",
+        "android_client_info": {
+          "package_name": "com.example.payment_gateways_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425460598574-8alne9u59qdomde989sjusq8aat29mp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw0M55krdIw8H0eF_Fw7FPFipXpsKnHZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425460598574-8alne9u59qdomde989sjusq8aat29mp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
